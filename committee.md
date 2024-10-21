@@ -5,7 +5,7 @@ layout: default
 
 # Organisation Committee
 **General Chair**<br>
-Suren Byna, The Ohio State University, USA<br>
+Suren Byna, The Ohio State University<br>
 
 **General Vice Chair**<br>
 Anthony Kougkas, Illinois Institute of Technology<br>
@@ -23,13 +23,13 @@ Jay Lofstead, Sandia National Laboratory<br>
 TBD<br>
 
 **Proceedings Chair**<br>
-Jean Luca Bez, Lawrence Berkeley National Laboratory, USA<br>
+Jean Luca Bez, Lawrence Berkeley National Laboratory<br>
 
 **Local Event Coordinators**<br>
 TBD<br>
 
 **Web Chair**<br>
-Houjun Tang, Lawrence Berkeley National Laboratory, USA<br>
+Houjun Tang, Lawrence Berkeley National Laboratory<br>
 
 **Publicity chair**<br>
 TBD<br>
