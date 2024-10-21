@@ -35,7 +35,7 @@ The lightening talk session will include presentations of posters.
 
 See [accepted papers](./accepted-papers.md) to read the abstracts for the complete list of full, short, demonstration, and poster papers to appear at SSDBM 2025.
 
-## Day 1 (Wednesday, July 10)
+## Day 1 (TBD)
 
 <h6 id="research-session-1"></h6>
 ### Research Session 1 : TBD 
