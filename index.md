@@ -53,12 +53,12 @@ Venkat Vishwanath, Argonne National Laboratory<br>
 Sarah Neuwirth, Johannes Gutenberg University Mainz<br>
 
 **Short and demo paper Co-chairs**<br>
-TBD<br>
+Dong Dai, University of Delaware<br><br>
 TBD<br>
 
 **Student Posters Competition co-chairs**<br>
 Jay Lofstead, Sandia National Laboratory<br>
-TBD<br>
+Karly Harrod, Oak Ridge National Laboratory<br>
 
 **Proceedings Chair**<br>
 Jean Luca Bez, Lawrence Berkeley National Laboratory<br>
@@ -70,7 +70,7 @@ TBD<br>
 Houjun Tang, Lawrence Berkeley National Laboratory<br>
 
 **Publicity chair**<br>
-TBD<br>
+Chen Wang, Lawrence Livermore National Laboratory<br>
 
 **Steering Committee**<br>
 <!-- Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br> -->
