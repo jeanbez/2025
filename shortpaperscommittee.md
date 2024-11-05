@@ -3,7 +3,7 @@ title: Committee
 layout: default
 ---
 
-# Short papers Program Committee
+# Short and Demo Papers Program Committee
 
 **Chairs**<br>
 <!-- **Tassadit Bouadi**, University of Rennes, France<br> -->

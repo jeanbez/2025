@@ -1,9 +1,9 @@
 ---
-title: Call for Short Papers
+title: Call for Short and Demo Papers
 layout: default
 ---
 
-# Call for Short Papers
+# Call for Short and Demo Papers
 
 TBD
 
