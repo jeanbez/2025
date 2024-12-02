@@ -52,6 +52,7 @@ Sarah Neuwirth, Johannes Gutenberg University Mainz<br>
 **Short and demo paper Co-chairs**<br>
 Dong Dai, University of Delaware<br>
 Jalil Boukhobza, ENSTA-Bretagne<br>
+Alfredo Cuzzocrea, University of Calabria<br>
 
 **Student Posters Competition co-chairs**<br>
 Jay Lofstead, Sandia National Laboratory<br>
