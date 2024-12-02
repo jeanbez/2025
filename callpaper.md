@@ -26,7 +26,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - HPC applications and scalability challenges in data-intensive scientific fields
 - Data ethics, bias in scientific data handling, and privacy in large-scale studies
 - Handling data errors, inconsistencies, and outliers in scientific datasets
-
 ### Data Modeling, Management, and Integration
 - FAIR data principles (Findable, Accessible, Interoperable, Reusable)
 - Data lifecycle and retention management, provenance data management
@@ -37,7 +36,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - Schema evolution
 - Information retrieval and text mining
 - Indexing and querying scientific data, including spatial, temporal, and streaming data
-
 ### Big Data Processing and Performance Aspects
 - Big data processing frameworks for scientific data
 - Scalable architectures and distributed systems for managing large-scale datasets
@@ -46,7 +44,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - Efficient computational techniques for statistical data analysis and modeling
 - Methods for ensuring data quality, integrity, and consistency in big data environments
 - Smart city applications and services leveraging high-performance data solutions
-
 ### Machine Learning, Artificial Intelligence, and Visualization
 - Database support of machine learning and AI
 - Data management for AI applications
@@ -54,7 +51,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - Visualization and exploration of large datasets
 - Security and privacy in scientific data management
 - Data storage and compression techniques for machine learning
-
 ### Streaming and Real-Time Data Processing
 - Stream data representation and management
 - Stream data analysis (e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction)
