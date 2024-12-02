@@ -14,8 +14,11 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio, from J
 The Proceedings of SSDBM 2025 will be published by Association of Computing Machinery (ACM) International Conference Proceeding Series (ICPS) and will appear in the ACM Digital Library and many indexing providers. [Acceptance pending]
 
 ## Topics of Interest
+
 Topics of particular interest include, but are not limited to, the following, as they relate to scientific data management:
+
 ### Scientific Applications, Workflows and Reproducibility
+
 - Design, implementation, optimization, and reproducibility of scientific workflows
 - Platforms and tools for reproducible data science and scientific collaboration
 - Application case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
@@ -25,7 +28,9 @@ Topics of particular interest include, but are not limited to, the following, as
 - HPC applications and scalability challenges in data-intensive scientific fields
 - Data ethics, bias in scientific data handling, and privacy in large-scale studies
 - Handling data errors, inconsistencies, and outliers in scientific datasets
+
 ### Data Modeling, Management, and Integration
+
 - FAIR data principles (Findable, Accessible, Interoperable, Reusable)
 - Data lifecycle and retention management, provenance data management
 - Data integration
@@ -35,7 +40,9 @@ Topics of particular interest include, but are not limited to, the following, as
 - Schema evolution
 - Information retrieval and text mining
 - Indexing and querying scientific data, including spatial, temporal, and streaming data
+
 ### Big Data Processing and Performance Aspects
+
 - Big data processing frameworks for scientific data
 - Scalable architectures and distributed systems for managing large-scale datasets
 - Optimization techniques for high-efficiency data storage and retrieval
@@ -43,14 +50,18 @@ Topics of particular interest include, but are not limited to, the following, as
 - Efficient computational techniques for statistical data analysis and modeling
 - Methods for ensuring data quality, integrity, and consistency in big data environments
 - Smart city applications and services leveraging high-performance data solutions
+
 ### Machine Learning, Artificial Intelligence, and Visualization
+
 - Database support of machine learning and AI
 - Data management for AI applications
 - Machine learning and AI for scientific data management
 - Visualization and exploration of large datasets
 - Security and privacy in scientific data management
 - Data storage and compression techniques for machine learning
+
 ### Streaming and Real-Time Data Processing
+
 - Stream data representation and management
 - Stream data analysis (e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction)
 - Dataflow and parallel processing for complex data workflows
