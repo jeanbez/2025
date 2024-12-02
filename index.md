@@ -16,10 +16,10 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 <!-- - [Accepted papers](accepted-papers.html) have been announced. -->
 <!-- - The deadline for [Camera-ready](camera_ready.html) papers and [author registration](./register.md) is TBD 2025. -->
 <!-- - Registration is now open! -->
-- Call for Posters is announced! Please see this page [call for poster](./callposter.md) for full details.
-- Call for Short & Demo Papers is announced! Please see this page [call for demo paper](./calldemopaper.md) for full details.
 - Call for Papers is announced! Please see this page [call for paper](./callpaper.md) for full details.
-<!-- - Submission site is now open: https://easychair.org/conferences/?conf=ssdbm2025 -->
+- Call for Short & Demo Papers is announced! Please see this page [call for demo paper](./callshortpaper.md) for full details.
+- Call for Posters is announced! Please see this page [call for poster](./callposter.md) for full details.
+- Submission site is now open: [https://easychair.org/conferences/?conf=ssdbm2025](https://easychair.org/conferences/?conf=ssdbm2025)
 
 <!--
 
