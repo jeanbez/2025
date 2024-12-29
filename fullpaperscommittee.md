@@ -7,45 +7,32 @@ layout: default
 
 **Chairs**<br>
 
-<!-- **Tristan Allard**, University of Rennes, France<br> -->
-<!-- **Jay Lofstead**, Sandia National Laboratories (SNL), USA<br> -->
-<!-- **Amelie Chi Zhou**, Hong Kong Baptist University, Hong Kong<br> -->
+**Venkat Vishwanath**, Argonne National Laboratory<br>
+**Sarah Neuwirth**, Johannes Gutenberg University Mainz<br>
 
 **Program Committee**<br>
 
-<!-- * **Mohammad Amiri**, Stony Brook University, <br> -->
-<!-- * **Ladjel Bellatreche**, LIAS/ISAE-ENSMA<br> -->
-<!-- * **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br> -->
-<!-- * **David Broneske**, German Centre for Higher Education Research and Science Studies<br> -->
-<!-- * **Tsz Nam Chan**, Shenzhen University<br> -->
-<!-- * **Matthew L. Curry**, Sandia National Laboratories<br> -->
-<!-- * **Josep Domingo-Ferrer**, Universitat Rovira i Virgili<br> -->
-<!-- * **Kira Duwe**, EPFL<br> -->
-<!-- * **Elena Ferrari**, University of Insubria<br> -->
-<!-- * **Sebastien Gambs**, Université du Québec à Montréal<br> -->
-<!-- * **Romaric Gaudel**, Univ. Rennes, IRISA<br> -->
-<!-- * **Karlyn Harrod**, Oak Ridge National Laboratory<br> -->
-<!-- * **Xin	Huang**, Hong Kong Baptist University<br> -->
-<!-- * **Jeong-Hyon Hwang**, State University of New York, University at Albany<br> -->
-<!-- * **Katie Knight**, Oak Ridge National Laboratory -->
-<!-- * **Michael Kuhn**, Otto von Guericke University Magdeburg<br> -->
-<!-- * **Chuanyou Li**, Southeast University<br> -->
-<!-- * **Xin Liang**, University of California, Riverside<br> -->
-<!-- * **Diana Moise**, HPE Switzerland<br> -->
-<!-- * **Benjamin	Nguyen**, INSA Centre Val de Loire<br> -->
-<!-- * **Bogdan Nicolae**, Argonne National Laboratory<br> -->
-<!-- * **Marcus Paradies**, TU Ilmenau<br> -->
-<!-- * **Arnab Kumar Paul**, BITS Pilani, K K Birla Goa Campus, Goa, India<br> -->
-<!-- * **Chengzhi	Piao**	, Hong Kong Baptist University<br> -->
-<!-- * **Line C. Pouchard**, Brookhaven National Lab<br> -->
-<!-- * **Yu-Xuan	Qiu**, University of Technology Sydney<br> -->
-<!-- * **Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA de Saclay<br> -->
-<!-- * **Robert Schuler**, USC Information Sciences Institute<br> -->
-<!-- * **Maximilien Servajean**, LIRMM, Université Montpellier 2<br> -->
-<!-- * **Houjun Tang**, Lawrence Berkeley National Laboratory<br> -->
-<!-- * **Zichen Xu**, Nanchang University<br> -->
-<!-- * **Renchi Yang**, Hong Kong Baptist University<br> -->
-<!-- * **Wei	Zhang**, Lawrence Berkeley National Laboratory<br> -->
-<!-- * **Shuhao Zhang**, Nanyang Technological University<br> -->
-<!-- * **Zhaorui Zhang**, The Hong Kong Polytechnic University<br> -->
-<!-- * **Ming Zhao**, Arizona State University<br> -->
+* **Philippe Deniel**, CEA<br> 
+* **Hari Devarajan**, Lawrence Livermore National Laboratory<br> 
+* **Hasan Jamil**, Iowa State University<br> 
+* **Verena Kantere**, University of Ottawa<br> 
+* **Olga Kuchar**, Oak Ridge National Laboratory<br> 
+* **Michael Kuhn**, Otto von Guericke University Magdeburg<br> 
+* **Chuan-Ming Liu**, National Taipei University of Technology<br> 
+* **Ricardo Macedo**, INESC TEC<br> 
+* **Preeti Malakar**, IIT-Kanpur, India<br> 
+* **Federica Mandreoli**, DII - University of Modena<br> 
+* **Kathryn Mohror**, Lawrence Livermore National Laboratory<br> 
+* **Diana Moise**, Hewlett Packard Enterprise<br> 
+* **Bongki Moon**, Seoul National University<br> 
+* **Bogdan Nicolae**, Argonne National Laboratory<br> 
+* **Arnab K. Paul**, BITS Pilani Goa<br> 
+* **M. Mustafa Rafique**, Rochester Institute of Technology<br> 
+* **Varuni Sastry**, Argonne National Laboratory<br> 
+* **Kento Sato**, RIKEN R-CCS<br> 
+* **Maximilian Schüle**, University of Bamberg<br> 
+* **Galen Shipman**, Los Alamos National Laboratory<br> 
+* **Houjun Tang**, Lawrence Berkeley National Laboratory<br> 
+* **Kaushik Veluswamy**, Argonne National Laboratory<br> 
+* **Lipeng Wan**, Georgia State University<br> 
+* **Kesheng Wu**, Lawrence Berkeley National Laboratory<br> 

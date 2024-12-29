@@ -11,23 +11,23 @@ Suren Byna, The Ohio State University<br>
 Anthony Kougkas, Illinois Institute of Technology<br>
 
 **Program Co-chairs**<br>
-Venkat Vishwanath, Argonne National Laboratory<br>
 Sarah Neuwirth, Johannes Gutenberg University Mainz<br>
+Venkat Vishwanath, Argonne National Laboratory<br>
 
 **Short and Demo Paper Co-chairs**<br>
-Dong Dai, University of Delaware<br>
 Jalil Boukhobza, ENSTA-Bretagne<br>
 Alfredo Cuzzocrea, University of Calabria<br>
+Dong Dai, University of Delaware<br>
 
 **Student Posters Competition co-chairs**<br>
-Jay Lofstead, Sandia National Laboratory<br>
 Karly Harrod, Oak Ridge National Laboratory<br>
+Jay Lofstead, Sandia National Laboratory<br>
 
 **Proceedings Chair**<br>
 Jean Luca Bez, Lawrence Berkeley National Laboratory<br>
 
 **Local Event Coordinators**<br>
-TBD<br>
+Hanqi Guo, The Ohio State University<br>
 
 **Web Chair**<br>
 Houjun Tang, Lawrence Berkeley National Laboratory<br>
@@ -36,8 +36,10 @@ Houjun Tang, Lawrence Berkeley National Laboratory<br>
 Chen Wang, Lawrence Livermore National Laboratory<br>
 
 **Steering Committee**<br>
-<!-- Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br> -->
-<!-- John Wu, Lawrence Berkeley National Lab (Chair)<br> -->
+Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br> 
+John Wu, Lawrence Berkeley National Lab (Chair)<br> 
+Shadi Ibrahim, Inria, Rennes<br> 
+Suren Byna, The Ohio State University<br> 
 <!-- Michael Böehlen, University of Zurich<br> -->
 <!-- Tanu Malik, DePaul University<br> -->
 <!-- Xingquan (Hill) Zhu, Florida Atlantic University<br> -->
