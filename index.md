@@ -71,7 +71,6 @@ Houjun Tang, Lawrence Berkeley National Laboratory<br>
 Chen Wang, Lawrence Livermore National Laboratory<br>
 
 **Steering Committee**<br>
-**Steering Committee**<br>
 Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>
 John Wu, Lawrence Berkeley National Lab (Chair)<br>
 Suren Byna, The Ohio State University<br>
