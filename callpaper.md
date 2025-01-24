@@ -11,7 +11,7 @@ The new SSDBM conference will serve as a forum for original research contributio
 
 SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio, from June 23 to June 25, 2025. Continuing the tradition of past SSDBM meetings, SSDBM 2025 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets. 
 
-The Proceedings of SSDBM 2025 will be published by Association of Computing Machinery (ACM) International Conference Proceeding Series (ICPS) and will appear in the ACM Digital Library and many indexing providers. 
+The Proceedings of SSDBM 2025 will be published by Association of Computing Machinery (ACM) <a href="https://www.acm.org/publications/icps">International Conference Proceeding Series (ICPS)</a> and will appear in <a href="https://www.acm.org/publications/digital-library">the ACM Digital Library</a> and many <a href="https://authors.acm.org/journals/journals-indexing-list">indexing providers</a>. 
 
 ## Topics of Interest
 
