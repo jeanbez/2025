@@ -71,10 +71,10 @@ Houjun Tang, Lawrence Berkeley National Laboratory<br>
 Chen Wang, Lawrence Livermore National Laboratory<br>
 
 **Steering Committee**<br>
-<!-- Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br> -->
-<!-- John Wu, Lawrence Berkeley National Lab (Chair)<br> -->
-<!-- Michael Böehlen, University of Zurich<br> -->
-<!-- Tanu Malik, DePaul University<br> -->
-<!-- Xingquan (Hill) Zhu, Florida Atlantic University<br> -->
-<!-- Yongluan Zhou, University of Copenhagen<br> -->
-<!-- Carl Kesselman, University of Southern California <br> -->
+**Steering Committee**<br>
+Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>
+John Wu, Lawrence Berkeley National Lab (Chair)<br>
+Suren Byna, The Ohio State University<br>
+Shadi Ibrahim, Inria, Rennes<br>
+Carl Kesselman, University of Southern California<br>
+Yongluan Zhou, University of Copenhagen<br>
