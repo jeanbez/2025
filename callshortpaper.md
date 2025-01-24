@@ -11,7 +11,7 @@ The new SSDBM conference will serve as a forum for original research contributio
 
 SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio, from June 23 to June 25, 2025. Continuing the tradition of past SSDBM meetings, SSDBM 2025 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets. 
 
-The Proceedings of SSDBM 2025 will be published by Association of Computing Machinery (ACM) International Conference Proceeding Series (ICPS) and will appear in the ACM Digital Library and many indexing providers. [Acceptance pending]
+The Proceedings of SSDBM 2025 will be published by Association of Computing Machinery (ACM) International Conference Proceeding Series (ICPS) and will appear in the ACM Digital Library and many indexing providers. 
 
 ## Topics of Interest
 
@@ -89,7 +89,7 @@ Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 - Submission deadline: March 11th, 2025 at 23:59 AoE (Anywhere on Earth)
 - Notification: April 14th, 2025
 
-Short & Demo papers will be given a presentation slot in the conference. Short & Demo papers (up to 6 pages including references) will be given an entry in the conference proceedings [Acceptance pending]. 
+Short & Demo papers will be given a presentation slot in the conference. Short & Demo papers (up to 6 pages including references) will be given an entry in the conference proceedings.
 If your paper is selected, at least one author must register for the Technical Program in order to attend the conference and present the paper. Each author registration can be applied to only one accepted submission. For an accepted paper to be included in the proceedings, the author has to present the paper at the conference in person. Otherwise, the paper will be removed from the proceedings. 
 
 
