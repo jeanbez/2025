@@ -18,7 +18,7 @@ layout: default
 * **Qian Gong**, Oak Ridge National Laboratory<br> 
 * **Awais Khan**, Oak Ridge National Laboratory<br> 
 * **Cheng-te Li**, National Cheng Kung University<br> 
-* **Soror Sahri**, Paris Descartes University<br> 
+* **Soror Sahri**, Université Paris Cité<br> 
 * **Chao Wang**, University of Science and Technology of China<br> 
 * **Jinzhen Wang**, UNC-Charlotte<br> 
 
