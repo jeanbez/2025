@@ -10,11 +10,11 @@ The International Conference on Scalable Scientific Data Management (SSDBM) 2025
 The poster session provides a valuable opportunity for researchers to present ongoing work, discuss novel problems and solutions, and receive insightful feedback from the SSDBM community.  Accepted posters will also be featured in a short presentation slot during the conference.  Posters will undergo a light review for scope and presentation quality.  The number of accepted posters is limited by space constraints.
 
 **Why Submit a Poster?**
-- Showcase Your Research: Present your work and receive valuable feedback.
-- Networking: Connect with prominent researchers and potential mentors.
-- Shape the Future: Contribute to the development of next-generation research infrastructure for scalable data management.
-- Student Opportunities: Compete for travel awards (up to $1500) and prizes.
-- Best Poster Competition: All student posters are automatically entered into the Best Poster Competition. The winner will receive recognition at the conference.
+- **Showcase Your Research**: Present your work and receive valuable feedback.
+- **Networking**: Connect with prominent researchers and potential mentors.
+- **Shape the Future**: Contribute to the development of next-generation research infrastructure for scalable data management.
+- **Student Opportunities**: Compete for travel awards (up to $1500) and prizes.
+- **Best Poster Competition**: All student posters are automatically entered into the Best Poster Competition. The winner will receive recognition at the conference.
 
 
 ## Submission Guidelines
@@ -24,7 +24,7 @@ Authors are invited to submit original, unpublished work. Submissions should inc
 - **Poster Draft**:  One A0-size sheet, vertical layout (preferred) or horizontal layout.
 - **Single-blind Review**: Include authors' names and affiliations on the first page.  Please adhere to the ACM Policy on Authorship and generative AI tools: [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
 - **Student Competition Indication**:  If the first author is a student and wishes to participate in the student poster competition, please clearly indicate this during submission.
-- StoreHub Survey (for Travel Award Consideration):  To be eligible for a StoreHub travel award (students only), please complete the [StoreHub Community Insight Survey](https://forms.gle/c6fmQkiSrCYWQMij9).
+- **StoreHub Survey (for Travel Award Consideration)**: To be eligible for a StoreHub travel award (students only), please complete the [StoreHub Community Insight Survey](https://forms.gle/c6fmQkiSrCYWQMij9).
 
 Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 
