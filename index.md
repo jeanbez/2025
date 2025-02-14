@@ -81,6 +81,6 @@ Carl Kesselman, University of Southern California<br>
 Yongluan Zhou, University of Copenhagen<br>
 
 **Sponsors and Partners**<br>
-[The Ohio State University](https://www.osu.edu/)
-[Translational Data Analytics Institute](https://tdai.osu.edu/)
-[StoreHub](https://grc.iit.edu/research/projects/storehub/)
+[The Ohio State University](https://www.osu.edu/)<br>
+[./assests/tdai-logo.jpg](https://tdai.osu.edu/)<br>
+[StoreHub](https://grc.iit.edu/research/projects/storehub/)<br>
