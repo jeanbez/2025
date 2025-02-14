@@ -16,9 +16,10 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 <!-- - [Accepted papers](accepted-papers.html) have been announced. -->
 <!-- - The deadline for [Camera-ready](camera_ready.html) papers and [author registration](./register.md) is TBD 2025. -->
 <!-- - Registration is now open! -->
-- Call for Papers is announced! Please see this page [call for paper](./callpaper.md) for full details.
-- Call for Short & Demo Papers is announced! Please see this page [call for demo paper](./callshortpaper.md) for full details.
-- Call for Posters is announced! Please see this page [call for poster](./callposter.md) for full details.
+- Call for Regular Papers is announced! Please see the [call for paper](./callpaper.md) for full details.
+- Call for Short & Demo Papers is announced! Please see the [call for demo paper](./callshortpaper.md) for full details.
+- Call for Posters is announced! Please see the [call for posters](./callposter.md) for full details.
+- **StoreHub Community Workshop & Student Travel Awards**. Please see the [call for posters](./callposter.md) for full details.
 - Submission site is now open: [https://easychair.org/conferences/?conf=ssdbm2025](https://easychair.org/conferences/?conf=ssdbm2025)
 
 <!--
@@ -36,9 +37,10 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 <!-- - All papers (Full, Short, and Demo) will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). -->
 
 
-## Conference Officers
+<!--  ## Conference Officers -->
 
-### Organization Committee
+## Organization Committee
+
 **General Chair**<br>
 Suren Byna, The Ohio State University<br>
 
@@ -77,3 +79,8 @@ Suren Byna, The Ohio State University<br>
 Shadi Ibrahim, Inria, Rennes<br>
 Carl Kesselman, University of Southern California<br>
 Yongluan Zhou, University of Copenhagen<br>
+
+**Sponsors and Partners**<br>
+[The Ohio State University](https://www.osu.edu/)
+[Translational Data Analytics Institute](https://tdai.osu.edu/)
+[StoreHub](https://grc.iit.edu/research/projects/storehub/)
