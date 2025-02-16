@@ -21,6 +21,7 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 - Call for Posters is announced! Please see the [call for posters](./callposter.md) for full details.
 - **StoreHub Community Workshop & Student Travel Awards**. Please see the [call for posters](./callposter.md) for full details.
 - Submission site is now open: [https://easychair.org/conferences/?conf=ssdbm2025](https://easychair.org/conferences/?conf=ssdbm2025)
+- Submission deadline has been extended to Mar 2nd, 2025.
 
 <!--
 

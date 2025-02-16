@@ -84,7 +84,7 @@ If your paper is selected, at least one author must register for the Technical P
 
 ## Important Dates
 
-- Abstract submission: Feb 16th, 2025, 23:59 AoE (Anywhere on Earth)
-- Submission deadline: Feb 23rd, 2025 at 23:59 AoE (Anywhere on Earth)
+- Abstract submission: ~~Feb 16th~~ Feb 23rd, 2025, 23:59 AoE (Anywhere on Earth)
+- Submission deadline: ~~Feb 23rd~~ Mar 2nd, 2025 at 23:59 AoE (Anywhere on Earth)
 - Notification: April 4th, 2025
 
