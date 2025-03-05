@@ -86,7 +86,7 @@ Authors are invited to submit original, unpublished manuscripts.
 Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 
 ## Important Dates
-- Submission deadline: March 11th, 2025 at 23:59 AoE (Anywhere on Earth)
+- Submission deadline: ~~March 11th~~ March 21st, 2025 at 23:59 AoE (Anywhere on Earth)
 - Notification: April 14th, 2025
 
 Short & Demo papers will be given a presentation slot in the conference. Short & Demo papers (up to 6 pages including references) will be given an entry in the conference proceedings.
