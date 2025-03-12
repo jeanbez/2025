@@ -29,7 +29,7 @@ Authors are invited to submit original, unpublished work. Submissions should inc
 Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 
 ## Important Dates:
-- Submission Deadline: March 31, 2025 (23:59 AoE)
+- Submission Deadline: ~~March 31~~ April 10th, 2025 (23:59 AoE)
 - Notification: April 14, 2025
 
 ## Special Opportunity:  StoreHub Community Workshop & Student Travel Awards
