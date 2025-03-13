@@ -46,7 +46,7 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 ## Organization Committee
 
 **General Chair**<br>
-Suren Byna, The Ohio State University<br>
+<a href="https://sbyna.github.io">Suren Byna</a>, The Ohio State University<br>
 
 **General Vice Chair**<br>
 Anthony Kougkas, Illinois Institute of Technology<br>
