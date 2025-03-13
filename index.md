@@ -5,6 +5,9 @@ layout: default
 
 # Welcome to SSDBM 2025
 
+<img src="assets/images/pomerene_hall_4.jpeg" alt="Pomerene-day" width="800" border="0"> <br>
+
+
 The International Conference on Scalable Scientific Data Management 2025 is aimed to bring together domain experts, data management researchers, practitioners, and developers for the presentation and exchange of the latest research results on concepts, tools, and techniques for scalable and scientific data management. Previous editions of SSDBM focused on scientific statistical databases. In 2025, the scope of the 37th edition of SSDBM will be expanded to all scalable and scientific data management fields. The name of the conference is changed to **International Conference on Scalable Scientific Data Management** from the International Conference on Scientific and Statistical Database Management, while keeping the acronym SSDBM. 
 
 The new SSDBM conference will provide a forum for original research contributions and practical system design, implementation and evaluation of latest advances in scalable and scientific data management. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
