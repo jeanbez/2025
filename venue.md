@@ -11,3 +11,7 @@ Room 320: Ideation Zone <br>
 [Google location](https://maps.app.goo.gl/Ccq9ZioBCpi1tjju9) <br>
 [History of Pomerene hall](https://history-of-art.osu.edu/about-department/pomerene-hall)
 
+<img src="assets/images/pomerene-mirror-lake.jpeg" alt="Pomerene" width="200" border="0"> <br>
+
+<img src="assets/images/ideation-zone.jpg" alt="Ideation" width="200" border="0"> <br>
+

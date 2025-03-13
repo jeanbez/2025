@@ -10,24 +10,24 @@ layout: default
 Here is a non-exhaustive list of hotels we recommend for your stay. <br>
 <ul>
     <li>
-        [The Blackwell Inn](https://www.theblackwell.com/)
+        <a href="https://www.theblackwell.com/">The Blackwell Inn</a>
     </li>
     <li>
-    [SpringHill Suites Columbus OSU](https://www.marriott.com/reservation/rateListMenu.mi)
+        <a href="https://www.marriott.com/reservation/rateListMenu.mi">SpringHill Suites Columbus OSU</a>
     </li>
     <li>
-        [Aloft Columbus University District](https://www.marriott.com/en-us/hotels/cmhco-aloft-columbus-university-district/overview/)
+        <a href="https://www.marriott.com/en-us/hotels/cmhco-aloft-columbus-university-district/overview/">Aloft Columbus University District</a>
     </li>
     <li>
-        [Hyatt House Columbus OSU / Short North](https://www.hyatt.com/hyatt-house/en-US/cmhxo-hyatt-house-columbus-osu-short-north)
+        <a href="https://www.hyatt.com/hyatt-house/en-US/cmhxo-hyatt-house-columbus-osu-short-north">Hyatt House Columbus OSU / Short North</a>
     </li>
     <li>
-        [Courtyard by Marriott – OSU](https://www.marriott.com/en-us/hotels/cmhwg-courtyard-columbus-osu/overview/)
+        <a href="https://www.marriott.com/en-us/hotels/cmhwg-courtyard-columbus-osu/overview/">Courtyard by Marriott – OSU </a>
     </li>
     <li>
-        [Homewood Suites by Hilton Columbus/OSU](https://www.hilton.com/en/hotels/cmhlahw-homewood-suites-columbus-osu-oh/)
+        <a href="https://www.hilton.com/en/hotels/cmhlahw-homewood-suites-columbus-osu-oh/">Homewood Suites by Hilton Columbus/OSU</a>
     </li>
     <li>
-        [TownePlace Suites Columbus North - OSU](https://www.marriott.com/en-us/hotels/cmhtn-towneplace-suites-columbus-north-osu/overview/)
+        <a href="https://www.marriott.com/en-us/hotels/cmhtn-towneplace-suites-columbus-north-osu/overview/">TownePlace Suites Columbus North - OSU</a>
     </li>
 </ul>
