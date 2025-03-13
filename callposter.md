@@ -1,5 +1,5 @@
 ---
-title: Call for Poster
+title: Call for Posters
 layout: default
 ---
 
