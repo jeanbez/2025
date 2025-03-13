@@ -10,10 +10,10 @@ layout: default
 Here is a non-exhaustive list of hotels we recommend for your stay. <br>
 <ul>
     <li>
-        <a href="https://www.theblackwell.com/">The Blackwell Inn</a>
+        <a href="https://www.theblackwell.com/">The Blackwell Inn</a> (On campus, walking distance)
     </li>
     <li>
-        <a href="https://www.marriott.com/reservation/rateListMenu.mi">SpringHill Suites Columbus OSU</a>
+        <a href="https://www.marriott.com/en-us/hotels/cmhos-springhill-suites-columbus-osu/overview/">SpringHill Suites Columbus OSU</a>
     </li>
     <li>
         <a href="https://www.marriott.com/en-us/hotels/cmhco-aloft-columbus-university-district/overview/">Aloft Columbus University District</a>
