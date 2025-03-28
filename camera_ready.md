@@ -58,4 +58,4 @@ Further information may be found on the ACM website:
 
 Please direct all questions about the new model to icps-info@acm.org.
 
-[![ACM ICPS](./assets/images/ACM-ICPS-logo.jpg)](https://www.acm.org/publications/icps)
+[![ACM ICPS](./assets/images/ACM-ICPS-logo.png)](https://www.acm.org/publications/icps)
